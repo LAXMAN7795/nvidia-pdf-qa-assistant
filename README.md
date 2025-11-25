@@ -1,4 +1,4 @@
-##📄 PDF Question Answering with NVIDIA LLMs
+# PDF Question Answering with NVIDIA LLMs
 A Streamlit RAG Application using NVIDIA NIM, FAISS & LangChain
 
 This project is a PDF Question-Answering (RAG) application built using:
